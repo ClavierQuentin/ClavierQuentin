@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
-<h3 align="center">A newly Fullstack developper from France</h3>
+<h3 align="center">Junior C# developper at Cotral Lab</h3>
 
-- 🌱 I’m currently learning **.NET and C#**
 
 - 👨‍💻 All of my projects are available at [https://quentin-clavier.com/](https://quentin-clavier.com/)
 
